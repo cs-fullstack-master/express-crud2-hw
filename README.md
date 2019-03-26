@@ -1,4 +1,4 @@
-# express-crud2-hw
+# express-crud2-hw1
 
 ### Exercise 1
 Follow the directions below to create a full CRUD app. If you're having trouble look at previous projects. There is an additional file in this project you can use to populate your database.
